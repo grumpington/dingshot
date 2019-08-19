@@ -1,0 +1,6 @@
+## Interface: 80200
+## Title: DingShot
+## Auther: Grumpington/Ihernglass
+## Version 1.0
+
+dingshot.lua
