@@ -1,4 +1,4 @@
-## Interface: 80200
+## Interface: 11302
 ## Title: DingShot
 ## Auther: Grumpington/Ihernglass
 ## Version 1.0
