@@ -3,4 +3,12 @@
 ## Auther: Grumpington/Ihernglass
 ## Version 1.0
 
+locale/deDE.lua
+locale/enGB.lua
+locale/enUS.lua
+locale/esES.lua
+locale/esMX.lua
+locale/frFR.lua
+locale/itIT.lua
+locale/koKR.lua
 dingshot.lua
